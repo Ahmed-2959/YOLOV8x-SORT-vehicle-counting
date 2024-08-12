@@ -1,0 +1,9 @@
+__pycache__/
+lib/
+lib64
+bin/
+pyvenv.cfg
+runs/
+share/
+*.mp4
+yolov8x.pt
