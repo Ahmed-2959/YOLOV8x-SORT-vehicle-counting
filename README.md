@@ -2,7 +2,7 @@
 
 ## Overview
 
-Basic implementation of object detection and tracking to count vehicles
+Basic implementation of object detection and tracking to count vehicles using YOLOv8x and SORT.
 
 ## Installation
 
